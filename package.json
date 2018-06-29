@@ -1,5 +1,5 @@
 {
-  "name": "fl-spreadsheet-to-json",
+  "name": "@influans/fl-spreadsheet-to-json",
   "version": "0.0.1",
   "description": "A node script to fetch a spreadsheet and generate a json",
   "author": {
@@ -14,6 +14,5 @@
     "type": "git",
     "url": "git+https://github.com/Nadenson/spreadsheet-to-json.git"
   },
-  "author": "Influans",
   "license": "ISC"
 }
